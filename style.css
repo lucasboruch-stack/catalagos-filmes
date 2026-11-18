@@ -2,5 +2,13 @@ body{
  background-color: hsl(0, 0%, 0%);
 }
 .cabecalho{
+margin-bottom: 0px;
+display:flex;
+justify-content: space-around;
+align-items: center;
+border: 2px solid green;
+background-image: ur1(wp9212011.jpg);
+backgrond-size:cover;
+backgrond-position: 50% 75%;
 
 }
